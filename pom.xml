@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.boundedinfinity</groupId>
+    <artifactId>basic-projet</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <distributionManagement>
+    <repository>
+      <url>https://github.com/thejashwiee/myntra.git</url>
+    </repository>
+</distributionManagement>
+
+</project>
